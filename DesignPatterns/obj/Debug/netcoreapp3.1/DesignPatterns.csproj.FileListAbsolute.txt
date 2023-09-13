@@ -1,0 +1,14 @@
+C:\Project\FundamentosArquitetura\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.exe
+C:\Project\FundamentosArquitetura\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.deps.json
+C:\Project\FundamentosArquitetura\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.json
+C:\Project\FundamentosArquitetura\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.dev.json
+C:\Project\FundamentosArquitetura\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.dll
+C:\Project\FundamentosArquitetura\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.pdb
+C:\Project\FundamentosArquitetura\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csproj.AssemblyReference.cache
+C:\Project\FundamentosArquitetura\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\FundamentosArquitetura\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfoInputs.cache
+C:\Project\FundamentosArquitetura\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfo.cs
+C:\Project\FundamentosArquitetura\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Project\FundamentosArquitetura\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.dll
+C:\Project\FundamentosArquitetura\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.pdb
+C:\Project\FundamentosArquitetura\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.genruntimeconfig.cache
